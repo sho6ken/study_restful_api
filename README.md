@@ -1,5 +1,3 @@
-# 練習go的restful風格api
-
 ## 命令行
 
 - `go mod init server`: go初始化
